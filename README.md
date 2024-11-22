@@ -1,2 +1,2 @@
 # Body-Mass-Index
-Accomplished the identification of global healthcare negligence as measured by the rising prevalence of extreme BMI categories (underweight &lt;18.5 and obesity >=30) from 1990–2022, by analyzing NCD data collected by healthcare scientists to highlight concerning trends in nutrition and health disparities which need urgent care.
+Created visualizations highlighting global healthcare negligence from 1990 to 2022, using Body Mass Index data from NCD studies by healthcare scientists, to raise awareness and inspire actionable change among individuals and organizations.
